@@ -1,4 +1,4 @@
-### This repo is made for personal use to practice design pattern.
+### This repo is made for personal use to practice design pattern in Java (using Spring).
 
 # Content
 - Singleton Pattern
